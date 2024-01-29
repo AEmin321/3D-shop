@@ -21,7 +21,7 @@ const Home = () => {
                 </motion.header>
                 <motion.div className="home-content" {...headContainerAnimation}>
                     <motion.div {...headTextAnimation}>
-                        <h1 className="head-text">
+                        <h1 className="head-text text-neutral-600">
                         Unleash Your Style,<br className="xl:block hidden" /> Your Way.
                         </h1>
                     </motion.div>
